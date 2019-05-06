@@ -6,6 +6,7 @@
 
 Dasgupta et. al. 2000, Seismotectonics Atlas of India and its Environments, 
 Geological Survey of India.
+![Dasgupta2000](https://github.com/vsilwal/AFDI/blob/master/Dasgupta2000.jpg)
 
 2. Afghanistan
 

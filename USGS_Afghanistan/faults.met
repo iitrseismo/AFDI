@@ -1,0 +1,355 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Ruleman, Chester A.
+      Originator: Crone, Anthony J.
+      Originator: Machette, Michael N.
+      Originator: Haller, Kathleen M.
+      Originator: Rukstales, Kenneth S.
+      Publication_Date: 2007
+      Title: Probable and possible Quaternary faults of Afghanistan
+      Edition: version 1.0
+      Geospatial_Data_Presentation_Form: Map
+      Series_Information:
+        Series_Name: U.S. Gelogical Survey Open-File Report
+        Issue_Identification: 1103
+      Publication_Information:
+        Publication_Place: Denver, Colorado
+        Publisher: U.S. Geological Survey
+      Online_Linkage: http://pubs.usgs.gov/of/2007/1103/
+  Description:
+    Abstract:
+      The U.S. Geological Survey (USGS), with support from the U.S. Agency for International Development (USAID) mission in Afghanistan, has prepared a digital map showing the distribution of probable and suspected Quaternary faults in Afghanistan.  This map is a key component of a broader effort to assess and map the country's seismic hazards.  Our analyses of remote-sensing imagery reveal a complex array of tectonic features that we interpret to be probable and possible active faults within the country and in the surrounding border region.  In our compilation, we have mapped previously recognized active faults in greater detail and have categorized individual features based on their geomorphic expression.  We assign our mapped features to newly defined domains, each of which contains features that appear to have similar styles of deformation.  The styles of deformation associated with each domain provide insight to the kinematics of the modern tectonism and define a tectonic framework that helps constrain deformational models of the Alpine-Himalayan orogenic belt.
+
+      The modern fault movements, deformation, and earthquakes in Afghanistan are driven by the collision between the northward-moving Indian subcontinent and Eurasia.  The patterns of probable and possible Quaternary faults generally show that much of the modern tectonic activity is related to the transfer of the plate-boundary deformation across the country.  The left-lateral strike-slip Chaman fault in southeastern Afghanistan probably has the highest slip rate of any fault in the country; to the north, this slip is distributed onto several fault systems.  At the southern margin of the Kabul block, the style of faulting changes from mainly strike-slip motion associated with the boundary between the Indian and Eurasian plates, to transpressional and transtensional faulting. North and northeast of the Kabul block, we recognize a complex pattern of potentially active strike-slip, thrust, and normal faults that form a conjugate shear system in a transpressional region of the Trans-Himalayan orogenic belt.
+
+      The general patterns and orientations of faults and the styles of deformation that we interpret from the imagery are consistent with the styles of faulting determined from focal mechanisms of historical earthquakes.  Northwest-trending strike-slip fault zones are cut and displaced by younger, southeast-verging thrust faults; these relations define the interaction between northwest-southeast-oriented contraction and northwest-directed extrusion in the western Himalaya, Pamirs, and Hindu Kush regions.  Transpression extends into north-central Afghanistan where north-verging contraction along the east-west-trending Alburz-Marmul fault system interacts with northwest-trending strike-slip faults.  Pressure ridges related to thrust faulting and extensional basins bounded by normal faults are located at major stepovers in these northwest-trending strike-slip systems.  In contrast, young faulting in central and western Afghanistan indicates that the deformation is dominated by extension where strike-slip fault zones transition into regions of normal faults.  In addition to these initial observations, our digital map and database provide a foundation that can be expanded, complemented, and modified as future investigations provide more detailed information about the location, characteristics, and history of movement on Quaternary faults in Afghanistan.
+    Purpose: This map is a key component of a broader effort to assess and map the seismic hazard of Afghanistan.  Analysis of remote-sensing, Landsat imagery was performed to interpret probable and possible active faults in and around Afghanistan.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 2001
+    Currentness_Reference: ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: 60.0
+      East_Bounding_Coordinate: 75.0
+      North_Bounding_Coordinate: 39.0
+      South_Bounding_Coordinate: 29.0
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: none
+      Theme_Keyword: Afghanistan
+      Theme_Keyword: Quaternary
+      Theme_Keyword: fault
+      Theme_Keyword: faults
+  Access_Constraints: None
+  Use_Constraints: Acknowledgment of the U.S. Geological Survey would be appreciated in products derived from these data.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Ken Rukstales
+        Contact_Organization: U.S. Geological Survey - Geologic Hazards Team
+      Contact_Address:
+        Address_Type: mailing address
+        Address: P.O. Box 25046, MS 966
+        City: Denver
+        State_or_Province: Colorado
+        Postal_Code: 80225
+        Country: USA
+      Contact_Voice_Telephone: 303-273-8677
+      Contact_Electronic_Mail_Address: rukstales@usgs.gov
+  Browse_Graphic:
+    Browse_Graphic_File_Name: http://pubs.usgs.gov/of/2007/1103/1103.pdf
+    Browse_Graphic_File_Description: Full-size, complete version of the map Probable and possible Quaternary faults of Afghanistan
+    Browse_Graphic_File_Type: PDF
+  Native_Data_Set_Environment: Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.1.1332
+Data_Quality_Information:
+  Logical_Consistency_Report: Lines do not intersect.  Lines do not self intersect.  Lines are not coincident.  Lines do not self overlap.  Topology verified using ArcGIS 9.1 topology rules.
+  Completeness_Report: Data are complete.
+  Lineage:
+    Process_Step:
+      Process_Description: We first compiled previously published reports and information that related to Quaternary faulting and the geomorphology and stratigraphy of Quaternary deposits .  This information, combined with data on the regional geological structures and plate movements and historical seismicity , provided an overall perspective of the past geological history and current distribution of earthquakes in the region.  Published geologic mapping highlighted specific features that needed to be carefully examined.  With this background information, we systematically examined calibrated Landsat ETM (Enhanced Thematic Mapper) satellite imagery, 90-m-resolution, shaded-relief maps developed from SRTM (Shuttle Radar Topographic Mission) data, and selected images from GeoEye's IKONOS, and Digital Globe's QuickBird imagery.  Our interpretations of possible young faulting is based on the presence of apparently displaced young (Quaternary) landforms and deposits, which commonly are located in valleys and along the margins of mountain ranges.  In regions where Quaternary deposits and landforms are rare or absent, such as in steep mountainous terrain or other upland settings, we focused on prominent and continuous escarpments and strong lineaments in bedrock.  Evidence indicative of Quaternary movement is less definitive on these features because of the scale and size of these features, and in some cases, their continuous surficial expression in rugged, eroding terrain.  Even though the evidence of young movement on these features may not be compelling, we map them because they warrant additional evaluation.  The mapped faults were digitized on screen using the Landsat ETM imagery and the SRTM data as the basis for locating segments of possible young faults.  Applicable attribute information for each segment was entered based on the interpretaion of the faulting.
+      Process_Date: 2006
+    Process_Step:
+      Process_Description: A generalized strike was calculated for each fault.  Faults were grouped according to the FaultID attribute.  An azimuth, weighted by each segment's length, was calculated for each segment of the fault.  A generalized strike was then calculated for each fault.
+      Process_Date: 2006
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: String
+      Point_and_Vector_Object_Count: 29619
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: Transverse Mercator
+        Transverse_Mercator:
+          Scale_Factor_at_Central_Meridian: 0.999600
+          Longitude_of_Central_Meridian: 66.000000
+          Latitude_of_Projection_Origin: 34.000000
+          False_Easting: 0.000000
+          False_Northing: 0.000000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 0.004
+          Ordinate_Resolution: 0.004
+        Planar_Distance_Units: meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: D_WGS_1984
+      Ellipsoid_Name: WGS_1984
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257224
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: faults
+      Entity_Type_Definition: Segments of faults that were mapped.
+      Entity_Type_Definition_Source: USGS
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: FaultID
+      Attribute_Definition: Unique sequential integer ID number used to group fault segments into a single fault.
+      Attribute_Definition_Source: USGS
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 135
+    Attribute:
+      Attribute_Label: Type
+      Attribute_Definition: Two letter code describing the predominant sense of motion on the fault.  This attribute is blank if sense of motion is unknown
+      Attribute_Definition_Source: USGS
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: LL
+          Enumerated_Domain_Value_Definition: Left-lateral
+          Enumerated_Domain_Value_Definition_Source: USGS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: N
+          Enumerated_Domain_Value_Definition: Normal
+          Enumerated_Domain_Value_Definition_Source: USGS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: R
+          Enumerated_Domain_Value_Definition: Reverse
+          Enumerated_Domain_Value_Definition_Source: USGS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: RL
+          Enumerated_Domain_Value_Definition: Right-lateral
+          Enumerated_Domain_Value_Definition_Source: USGS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SS
+          Enumerated_Domain_Value_Definition: Strike-slip
+          Enumerated_Domain_Value_Definition_Source: USGS
+    Attribute:
+      Attribute_Label: Type_C
+      Attribute_Definition: Comments about the attribute field Type
+      Attribute_Definition_Source: USGS
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Free text
+    Attribute:
+      Attribute_Label: ActvCls
+      Attribute_Definition: Activity Class, category based on the surface expression of the fault segment.
+      Attribute_Definition_Source: USGS
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Major fault (A)
+          Enumerated_Domain_Value_Definition: Major structure with a prominent expression in the landscape.
+          Enumerated_Domain_Value_Definition_Source: USGS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Minor fault (B)
+          Enumerated_Domain_Value_Definition: Minor structure that has a distinct expression in the landscape.
+          Enumerated_Domain_Value_Definition_Source: USGS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Immeasurable (C)
+          Enumerated_Domain_Value_Definition: Structure with a subtle expression in the landscape or limited or poor espression in Quaternary deposits.
+          Enumerated_Domain_Value_Definition_Source: USGS
+    Attribute:
+      Attribute_Label: ActvCls_C
+      Attribute_Definition: Comments about the attribute field Activity Class (ActvCls)
+      Attribute_Definition_Source: USGS
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Free text
+    Attribute:
+      Attribute_Label: MstRecEvt
+      Attribute_Definition: Most recent event: based on the analyses of the Landsat imagery, the most recent event, or displacement, is categorized into two categories.  This attribute is blank if no determination of the most recent event could be made.
+      Attribute_Definition_Source: USGS
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Late pleistocene / Post-glacial
+          Enumerated_Domain_Value_Definition: displaced features and landforms along the fault or fault zone with well expressed surficial morphology (e.g., bar-and-swale micro-toporaphy on alluvial fans and steep crested moraines with undrained depressions) and/or morpho-stratigraphic relationships indicating recent formation (e.g., active fluvial channels and terraces consisting of inferred last glacial maximum deposits)
+          Enumerated_Domain_Value_Definition_Source: USGS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Quaternary
+          Enumerated_Domain_Value_Definition: displaced features along a fault or fault zone of unknown Quaternary age (e.g., bedrock-colluvium fault scarps, lineaments across bedrock uplands, terraces positioned > 20 meters above active stream channels, fan surfaces with smooth, subdued micro-topography and younger extensive inset deposits)
+          Enumerated_Domain_Value_Definition_Source: USGS
+    Attribute:
+      Attribute_Label: GeomrphExp
+      Attribute_Definition: Geomorphic expression of the fault segment
+      Attribute_Definition_Source: USGS
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Free text
+    Attribute:
+      Attribute_Label: EstSlpRt
+      Attribute_Definition: Estimated slip rate in mm/yr
+      Attribute_Definition_Source: USGS
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Indeterminate
+          Enumerated_Domain_Value_Definition: No determination of a slip rate could be made
+          Enumerated_Domain_Value_Definition_Source: USGS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1 - 10 mm/yr
+          Enumerated_Domain_Value_Definition: Slip rate is in the range of one to ten millimeters per year
+          Enumerated_Domain_Value_Definition_Source: USGS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: > 10 mm/yr
+          Enumerated_Domain_Value_Definition: Slip rate is greater than ten millimeters per year
+          Enumerated_Domain_Value_Definition_Source: USGS
+    Attribute:
+      Attribute_Label: EstSlpRt_C
+      Attribute_Definition: Comments about the estimated slip rate (EstSlpRt) attribute for each segment
+      Attribute_Definition_Source: USGS
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Free text
+    Attribute:
+      Attribute_Label: Name
+      Attribute_Definition: Name of the fault
+      Attribute_Definition_Source: USGS
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: The names are taken from the literature about Afghanistan geology.  Blank values mean no name is given for the fault.
+    Attribute:
+      Attribute_Label: Strike
+      Attribute_Definition: Strike of the fault segment.  Strike is measured clockwise from North, in units of degrees.
+      Attribute_Definition_Source: USGS
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 180
+    Attribute:
+      Attribute_Label: GenStrike
+      Attribute_Definition: Generalized strike of the fault.  A fault is defined as all of the fault segments that have the same FaultID attribute.  The strike of each fault segment is weighted by its length to calculate a generalized strike for each fault.Strike is measured clockwise from North, in units of degrees.
+      Attribute_Definition_Source: USGS
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 180
+    Attribute:
+      Attribute_Label: Comments
+      Attribute_Definition: General comments about the fault or fault segment
+      Attribute_Definition_Source: USGS
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Free text
+    Attribute:
+      Attribute_Label: SHAPE_Leng
+      Attribute_Definition: Length of the fault segment in meters.  Calculated by ArcGIS.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 2.647
+          Range_Domain_Maximum: 100923.171
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey
+      Contact_Address:
+        Address_Type: mailing address
+        Address: USGS, Denver Publishing Service Center
+        Address: P.O. Box 25046,  Mail Stop 902
+        City: Denver
+        State_or_Province: Colorado
+        Postal_Code: 80225
+        Country: USA
+      Contact_Voice_Telephone: 303-236-4845
+      Contact_Facsimile_Telephone: 303-236-6287
+      Contact_Electronic_Mail_Address: tpinto@usgs.gov
+  Resource_Description:
+    U.S. Geological Survey
+    Open-File Report 2007-1103
+    Probable and possible Quaternary faults of Afghanistan
+  Distribution_Liability: Although these data have been used by the U.S. Geological Survey, no warranty, expressed or implied is made by the USGS to the accuracy of the data and related material nor shall the fact of distribution constitute any such warranty, and no responsibility is assumed by the USGS in connection therewith.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: PDF
+        Format_Version_Number: 6.0
+        Format_Specification: Adobe Portable Document Format
+        Transfer_Size: 42.2 MB
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://pubs.usgs.gov/of/2007/1103/ofr2007-1103.pdf
+    Fees: none
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey
+      Contact_Address:
+        Address_Type: mailing address
+        Address: USGS, Denver Publishing Service Center
+        Address: P.O. Box 25046,  Mail Stop 902
+        City: Denver
+        State_or_Province: Colorado
+        Postal_Code: 80225
+        Country: USA
+      Contact_Voice_Telephone: 303-236-4845
+      Contact_Facsimile_Telephone: 303-236-6287
+      Contact_Electronic_Mail_Address: tpinto@usgs.gov
+  Resource_Description: Downloadable geospatial data sets in shapefile format are available.
+  Distribution_Liability: Although these data have been used by the U.S. Geological Survey, no warranty, expressed or implied is made by the USGS to the accuracy of the data and related material nor shall the fact of distribution constitute any such warranty, and no responsibility is assumed by the USGS in connection therewith.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: SHP
+        Format_Version_Number: 9.1
+        Format_Specification: Shapefile
+        Format_Information_Content: Probable and possible Quaternary faults of Afghanistan
+        File_Decompression_Technique: Files need to be decompressed using gzip, winzip, or similar utility
+        Transfer_Size: 5.7 MB
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://pubs.usgs.gov/of/2007/1103/1103.zip
+              Network_Resource_Name: http://pubs.usgs.gov/of/2007/1103/1103.gz
+    Fees: none
+Metadata_Reference_Information:
+  Metadata_Date: 20070330
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey - Geologic Hazards Team
+        Contact_Person: Ken Rukstales
+      Contact_Address:
+        Address_Type: mailing address
+        Address: P.O. Box 25046, MS 966
+        City: Denver
+        State_or_Province: Colorado
+        Postal_Code: 80225
+        Country: USA
+      Contact_Voice_Telephone: 303-273-8677
+      Contact_Electronic_Mail_Address: rukstales@usgs.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile

@@ -11,7 +11,7 @@ Geological Survey of India.
 2. Afghanistan
 
 Ruleman et. al. 2007, Probable and possible Quaternary faults of Afghanistan,
-U.S. Geological Survey Open-File Report 2007-1103.
+U.S. Geological Survey Open-File Report 2007-1103. (https://pubs.usgs.gov/of/2007/1103/)
 
 3. Central Asia
 
